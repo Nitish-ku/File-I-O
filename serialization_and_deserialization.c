@@ -1,3 +1,5 @@
+//Improves CSV handling by quoting strings (to support commas in names) and provides reusable write_contact and read_contact functions.
+
 #include <stdio.h>
 #include <string.h>
 
