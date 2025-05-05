@@ -13,8 +13,8 @@ int main(void)
 
     char line[100];
     long position;
-    char target_name[] = "Rudru";
-    char new_number[] = "3435343569";
+    char target_name[] = "Pewcalypse";
+    char new_number[] = "9999999999";
 
     // search for Rudru's record
 
